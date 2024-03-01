@@ -1,0 +1,11 @@
+{
+  "name": "beam-blast",
+  "version": "1.1.0",
+  "description": "Name Masker\r Project Description\r The Name Masker is a simple JavaScript-based utility designed to \"mask\" or transform user-inputted names into predefined aliases. This project is particularly useful for scenarios where the original names of items, such as project titles or document names, need to be disguised for privacy or security reasons. The utility provides a straightforward web interface for users to input names and receive their masked versions instantly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
